@@ -1,0 +1,18 @@
+Python Skeleton Project
+
+Whenever you feel the itch to start a project, this should help you get organized and take care of some of the yak shaving.
+
+Get these packages:
+
+1. pip from http://pypi.python.org/pypi/pip
+
+2. distribute from http://pypi.python.org/pypi/distribute
+
+3. nose from http://pypi.python.org/pypi/nose/
+
+4. virtualenv from http://pypi.python.org/pypi/virtualenv
+
+
+# TODO
+- update setup.py to latest version
+- make renamer into a callable bin script

@@ -1,0 +1,15 @@
+test:
+ token: testadjfoigajodsifjaoidfjgoadif
+ credential_blabla: 123456
+ mongodb:
+   host: localhost
+   port: 27017
+
+development: &default
+ credential_blabla: 12345678
+ token: developmentadjfoigajodsifjaoidfjgoadif
+ mongodb:
+   host: localhost
+   port: 27017
+
+production: *default
