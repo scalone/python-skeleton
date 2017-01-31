@@ -13,10 +13,6 @@ def main(argv):
     except ImportError:
       from distutils.core import setup
 
-    print(settings["token"])
-
-    Blabla("buuuu", "aaaaaa")
-
     #config = {
       #'description': 'Project Name',
       #'author': 'My Name',
